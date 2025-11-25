@@ -1,11 +1,10 @@
-# teather
-Aero Reflectivity General Public Pipeline 
+## README - Teather
+Aero Reflectivity General Public Pipeline
 
--Radar AeroEcology
-    -Migration Traffic Rates
+- **Radar AeroEcology**
+  - Migration Traffic Rates
 
--eBird Community Science Data
-    -Ground-Encounter Rates
-
+- **eBird Community Science Data**
+  - Ground-Encounter Rates
 
 Teathering Distant Connections
